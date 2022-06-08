@@ -1,0 +1,7 @@
+MACOS:
+
+/Users/miguelgoncalves/Desktop/CGF1/3dFiles/box.3d
+
+windows:
+
+C:\\Users\\Miguel\\Desktop\\CGF1\\3dFiles\\box.3d
